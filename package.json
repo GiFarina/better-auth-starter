@@ -1,0 +1,12 @@
+{
+  "name": "betterauth-starter",
+  "version": "1.0.0",
+  "dependencies": {
+    "better-auth": "^1.2.0",
+    "pg": "^8.13.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "typescript": "^5.0.0"
+  }
+}
