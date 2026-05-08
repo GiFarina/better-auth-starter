@@ -19,6 +19,7 @@ export const auth = betterAuth({
   trustedOrigins: [
     "http://localhost:4000",
     "http://127.0.0.1:4000",
+    "https://staging-better-auth-starter-f2a2.encr.app"
   ],
   emailAndPassword: {
     enabled: true,
